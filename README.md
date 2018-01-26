@@ -1,2 +1,3 @@
-# brew
-My home brewing
+# My home beer catalogue
+
+Enjoy your beer!
